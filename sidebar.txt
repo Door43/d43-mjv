@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mjv:home|Door43 (mjv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mjv|d43-mjv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mjv/archive/master.zip|d43-mjv.zip]]
+
+**Recent Changes**
+{{changes>ns = mjv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mjv|Ethnologue data]]
+
