@@ -17,10 +17,7 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
 [[http://www.ethnologue.com/language/mjv|Ethnologue data]]
 
-
 **Resources**
 
   * [[mjv:obs|Open Bible Stories (mjv)]]
 
-**Latest OBS Status**
-{{page>en:uwadmin:mjv:obs:status}}
